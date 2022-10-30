@@ -28,3 +28,5 @@ Todo:
  
 Tools needed:
 tkinter, opencv, random shit
+
+hi
